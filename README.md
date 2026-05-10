@@ -1,16 +1,50 @@
-## Hi there 👋
+# 👋 Привет, я Павел Кариков
 
-<!--
-**PavelKoff2025/PavelKoff2025** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Маркетолог-практик с 20+ лет опыта → AI-стратег & Промпт-инженер**  
+*Внедряю автономных RAG-ассистентов, которые продают 24/7. Без галлюцинаций. С ссылками на ваши данные.*
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+##  Флагманский проект: AI Sale Agent для ГК «ПРОЕКТ»
+Автономный AI-консультант на базе RAG-архитектуры. Решает проблему потери заявок, типовых вопросов и человеческого фактора на первичке.
+
+| Метрика (MVP) | Результат |
+|---------------|-----------|
+| 📈 Конверсия в заявку | `+25%` |
+| ⏱️ Время обработки | `−60%` |
+| 💰 Экономия ФОТ | `100–200 тыс. ₽/мес` |
+
+**Под капотом:**  
+`GPT-4o / GigaChat (авто-фоллбэк)` • `ChromaDB (RAG)` • `FastAPI` • `React + TS` • `Docker` • `Whisper + OpenAI TTS` • `Telegram Bot API`
+
+🔗 [Живое демо](https://agent.pavelkarikoff.ru) | [Исходный код](https://github.com/PavelKoff2025/AI_sale)
+
+---
+
+## 💼 Чем могу быть полезен бизнесу и командам
+- ✅ **Аудит процессов:** нахожу точки для автоматизации ИИ с измеримым ROI
+- ✅ **Внедрение RAG-ассистентов:** от сбора базы знаний до деплоя и интеграции с CRM/мессенджерами
+- ✅ **Промпт-инжиниринг:** системные промпты, защита от галлюцинаций, цепочки рассуждений, A/B-тесты
+- ✅ **Обучение команд:** воркшопы по работе с LLM, создание внутренних библиотек промптов, методические гайды
+
+---
+
+##  Преподавание & Экспертиза
+- 🏛️ **Преподаватель** авторского курса *«Цифровой маркетинг для лингвистов»* в НИТУ МИСИС (ИБО, кафедра ИЯКТ)
+-  Выпускник программы *«Промпт-инжиниринг 3.0»* (Zerocoder, 2025)
+- 📊 20+ лет в маркетинге: премиум-недвижимость, Сочи, ИЖС, digital-стратегии, управление командами
+
+---
+
+## 🛠️ Инструменты & Стек
+`Python` • `FastAPI` • `React/TypeScript` • `Docker Compose` • `ChromaDB` • `OpenAI API` • `GigaChat` • `Whisper` • `Telegram Bot API` • `RAG Architecture` • `Prompt Engineering` • `CRM Integration`
+
+---
+
+## 📬 Связаться со мной
+-  **Портфолио / Демо:** [agent.pavelkarikoff.ru](https://agent.pavelkarikoff.ru)
+- 💼 **Telegram:** [@pavelkoffdigital](https://t.me/pavelkoffdigital)
+-  **TenChat:** [karikoffmarketing](https://tenchat.ru/karikoffmarketing)
+- 📧 **Email:** [pkarikov@yandex.ru](mailto:pkarikov@yandex.ru)
+
+> *«Лучший продавец — тот, кто всегда на связи, всё помнит и никогда не устаёт. Теперь это — AI_Sale.»*
