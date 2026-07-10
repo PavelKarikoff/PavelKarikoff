@@ -17,7 +17,7 @@
 **Под капотом:**  
 `GPT-4o / GigaChat (авто-фоллбэк)` • `ChromaDB (RAG)` • `FastAPI` • `React + TS` • `Docker` • `Whisper + OpenAI TTS` • `Telegram Bot API`
 
-🔗 [Живое демо](https://agent.pavelkarikoff.ru) | [Исходный код](https://github.com/PavelKoff2025/AI_sale)
+🔗 [Живое демо](https://ai.pavelkarikoff.ru) | [Исходный код](https://github.com/PavelKoff2025/AI_sale)
 
 ---
 
