@@ -12,6 +12,12 @@
 
 ### 🚀 Флагманские кейсы и решения
 
+#### ⚡ [ai-sale-agent-landing](https://github.com/PavelKoff2025/ai-sale-agent-landing) — Флагманский кейс по вайбкодингу
+* **Суть:** Продакшн-лендинг для продажи и внедрения автономных AI-консультантов: от идеи до деплоя на VPS в логике vibe coding (Cursor + AI-assisted разработка).
+* **Что внутри:** адаптивная вёрстка, анимации, форма заявок с валидацией, мгновенные уведомления в Telegram, nginx + gunicorn + systemd.
+* **Стек:** Python, Flask, Vanilla HTML/CSS/JS, Telegram Bot API, Docker/nginx reverse proxy.
+* 🔗 **[🌐 Открыть live](https://agent.pavelkarikoff.ru)**
+
 #### 🎯 [ResumeScore](https://github.com/PavelKoff2025/ResumeScore) — Multi-Agent AI Scoring System
 * **Суть:** Мультиагентный AI-сервис (3 агента) для автоматического сопоставления резюме с вакансиями HH.ru, Gap-анализа компетенций и генерации сопроводительных писем.
 * **Стек:** Python, Streamlit, OpenAI GPT-4o / DeepSeek, HH.ru API.
@@ -21,7 +27,7 @@
 * **Суть:** RAG-консультант для первичной обработки заявок и квалификации лидов 24/7.
 * **Результаты (MVP):** Конверсия в заявку **+25%**, время обработки **−60%**, экономия ФОТ **100–200 тыс. ₽/мес**.
 * **Стек:** FastAPI, React/TS, ChromaDB, Docker, Whisper + OpenAI TTS, Telegram Bot API.
-* 🔗 **[🌐 Смотреть демо на сайте](https://agent.pavelkarikoff.ru)**
+* 🔗 **[🌐 Смотреть демо на сайте](https://ai.pavelkarikoff.ru)**
 
 ---
 
