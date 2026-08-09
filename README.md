@@ -1,50 +1,51 @@
-# 👋 Привет, я Павел Кариков
+# 👋 Привет! Я Павел Кариков
 
-**Маркетолог-практик с 20+ лет опыта → AI-стратег & Промпт-инженер**  
-*Внедряю автономных RAG-ассистентов, которые продают 24/7. Без галлюцинаций. С ссылками на ваши данные.*
+### AI-Стратег • Промпт-инженер • Маркетолог-практик (20+ лет)
 
----
+Проектирую и внедряю **автономных RAG-ассистентов** и **мультиагентные системы**, которые решают задачи бизнеса: от первичной обработки лидов до автоматизации HR-процессов. Без галлюцинаций, с жесткими JSON-схемами и интегрированной базой знаний.
 
-##  Флагманский проект: AI Sale Agent для ГК «ПРОЕКТ»
-Автономный AI-консультант на базе RAG-архитектуры. Решает проблему потери заявок, типовых вопросов и человеческого фактора на первичке.
-
-| Метрика (MVP) | Результат |
-|---------------|-----------|
-| 📈 Конверсия в заявку | `+25%` |
-| ⏱️ Время обработки | `−60%` |
-| 💰 Экономия ФОТ | `100–200 тыс. ₽/мес` |
-
-**Под капотом:**  
-`GPT-4o / GigaChat (авто-фоллбэк)` • `ChromaDB (RAG)` • `FastAPI` • `React + TS` • `Docker` • `Whisper + OpenAI TTS` • `Telegram Bot API`
-
-🔗 [Живое демо](https://ai.pavelkarikoff.ru) | [Исходный код](https://github.com/PavelKoff2025/AI_sale)
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/pavelkoffdigital)
+[![Website](https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=about.me&logoColor=white)](https://agent.pavelkarikoff.ru)
+[![TenChat](https://img.shields.io/badge/TenChat-0052FF?style=for-the-badge&logo=tenchat&logoColor=white)](https://tenchat.ru/karikoffmarketing)
 
 ---
 
-## 💼 Чем могу быть полезен бизнесу и командам
-- ✅ **Аудит процессов:** нахожу точки для автоматизации ИИ с измеримым ROI
-- ✅ **Внедрение RAG-ассистентов:** от сбора базы знаний до деплоя и интеграции с CRM/мессенджерами
-- ✅ **Промпт-инжиниринг:** системные промпты, защита от галлюцинаций, цепочки рассуждений, A/B-тесты
-- ✅ **Обучение команд:** воркшопы по работе с LLM, создание внутренних библиотек промптов, методические гайды
+### 🚀 Флагманские кейсы и решения
+
+#### 🎯 [ResumeScore](https://github.com/PavelKoff2025/ResumeScore) — Multi-Agent AI Scoring System
+* **Суть:** Мультиагентный AI-сервис (3 агента) для автоматического сопоставления резюме с вакансиями HH.ru, Gap-анализа компетенций и генерации сопроводительных писем.
+* **Стек:** Python, Streamlit, OpenAI GPT-4o / DeepSeek, HH.ru API.
+* 🔗 **[🚀 Запустить Live Demo](https://resumescore-zjgmnauufoxcdnmuqsfu4d.streamlit.app/)**
+
+#### 🤖 [AI_sale](https://github.com/PavelKoff2025/AI_sale) — Автономный AI Sales Agent (ГК «ПРОЕКТ»)
+* **Суть:** RAG-консультант для первичной обработки заявок и квалификации лидов 24/7.
+* **Результаты (MVP):** Конверсия в заявку **+25%**, время обработки **−60%**, экономия ФОТ **100–200 тыс. ₽/мес**.
+* **Стек:** FastAPI, React/TS, ChromaDB, Docker, Whisper + OpenAI TTS, Telegram Bot API.
+* 🔗 **[🌐 Смотреть демо на сайте](https://agent.pavelkarikoff.ru)**
 
 ---
 
-##  Преподавание & Экспертиза
-- 🏛️ **Преподаватель** авторского курса *«Цифровой маркетинг для лингвистов»* в НИТУ МИСИС (ИБО, кафедра ИЯКТ)
--  Выпускник программы *«Промпт-инжиниринг 3.0»* (Zerocoder, 2025)
-- 📊 20+ лет в маркетинге: премиум-недвижимость, Сочи, ИЖС, digital-стратегии, управление командами
+### 🛠️ Технологический стек & Компетенции
+
+| Область | Технологии |
+| :--- | :--- |
+| **AI Architecture** | RAG, Multi-Agent Systems, System Prompt Engineering, Anti-hallucination guardrails |
+| **LLM & Vectors** | OpenAI API, DeepSeek, GigaChat API, ChromaDB |
+| **Backend & Bot Dev**| Python, FastAPI, Telegram Bot API, AsyncIO, Docker Compose |
+| **Frontend & UI** | Streamlit, React, TypeScript |
+| **Business & Marketing**| B2B Sales Funnels, MROI/CAC/LTV Analytics, Process Automation (n8n) |
 
 ---
 
-## 🛠️ Инструменты & Стек
-`Python` • `FastAPI` • `React/TypeScript` • `Docker Compose` • `ChromaDB` • `OpenAI API` • `GigaChat` • `Whisper` • `Telegram Bot API` • `RAG Architecture` • `Prompt Engineering` • `CRM Integration`
+### 🎓 Экспертиза и преподавание
+* 🏛️ **Преподаватель курса «Цифровой маркетинг для лингвистов»** в НИТУ МИСИС.
+* 🎓 Выпускник программ по промпт-инжинирингу и AI-разработке.
 
 ---
 
-## 📬 Связаться со мной
--  **Портфолио / Демо:** [agent.pavelkarikoff.ru](https://agent.pavelkarikoff.ru)
-- 💼 **Telegram:** [@pavelkoffdigital](https://t.me/pavelkoffdigital)
--  **TenChat:** [karikoffmarketing](https://tenchat.ru/karikoffmarketing)
-- 📧 **Email:** [pkarikov@yandex.ru](mailto:pkarikov@yandex.ru)
+### 💼 Чем могу быть полезен вашему бизнесу
+1. **Аудит процессов:** Поиск точек внедрения ИИ с измеримым ROI.
+2. **Разработка под ключ:** От сбора базы знаний (RAG) до готового виджета или TG-бота.
+3. **Обучение команд:** Воркшопы по работе с LLM и составлению корпоративных библиотек промптов.
 
-> *«Лучший продавец — тот, кто всегда на связи, всё помнит и никогда не устаёт. Теперь это — AI_Sale.»*
+📩 **Связаться со мной:** Telegram [@pavelkoffdigital](https://t.me/pavelkoffdigital) | Email: `pkarikov@yandex.ru`
